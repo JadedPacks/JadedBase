@@ -1,0 +1,19 @@
+[
+	{
+		"modid": "jcbase",
+		"name": "JadedBase",
+		"description": "JadedCat Base",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "https://github.com/JadedPacks/JadedBase",
+		"updateUrl": "",
+		"authorList": [
+			"Jadedcat",
+			"Developaws"
+		],
+		"credits": "JadedPacks",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
