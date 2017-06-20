@@ -33,6 +33,8 @@ public class Parts {
 	public static final ItemStack podzolitem = null;
 	@ItemStackHolder(value = "minecraft:piston")
 	public static final ItemStack piston = null;
+	@ItemStackHolder(value = "minecraft:coal", meta = 0)
+	public static final ItemStack coal = null;
 	@ItemStackHolder(value = "minecraft:coal", meta = 1)
 	public static final ItemStack charcoal = null;
 	@ItemStackHolder(value = "minecraft:blaze_powder")
